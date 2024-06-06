@@ -1,6 +1,6 @@
-import pygame  # Import the pygame module to use its functions and classes
-import random  # Import the random module for generating random numbers
-import sys     # Import the sys module for exiting the game
+#import pygame  # Import the pygame module to use its functions and classes
+#import random  # Import the random module for generating random numbers
+#import sys     # Import the sys module for exiting the game
 
 pygame.init()  # Initialize the pygame module
 
